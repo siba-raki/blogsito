@@ -47,4 +47,13 @@ body
 {
     background: white;
     padding: 1em;
+   font-size: 20px;
+}
+
+#footer
+{
+   background: #777;
+   color: whiter;
+   text-align: center;
+   padding: 0.5em;
 }
